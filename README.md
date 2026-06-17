@@ -1,6 +1,6 @@
 # med-route-nanomodel
 
-本项目是一次轻量级文本路由模型的训练尝试。复刻 Andrej Karpathy 的 [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) 与 [nanoGPT](https://github.com/karpathy/nanoGPT) 架构，从零构建了一个 Transformer 文本分类器，旨在验证其在医疗垂直领域中进行意图识别的能力。使用本项目自带的实验数据集，模型可在“骨科”、“内科”与“中医”三个类别中识别。
+本项目是一次轻量级文本路由模型的训练尝试。复刻 Andrej Karpathy 的 [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) 与 [nanoGPT](https://github.com/karpathy/nanoGPT) 架构，从零构建了一个 Transformer 文本分类器，旨在验证其在医疗垂直领域中进行意图识别的能力。使用本项目自带的实验数据集，模型可在“骨科”、“内科”与“中医”三个类别中识别，用于对接 if/else 逻辑。
 
 ![分类示范](./extras（附加）/images/photo1.png)
 
